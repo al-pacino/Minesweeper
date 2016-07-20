@@ -7,9 +7,6 @@
 #include <exception>
 #include <unordered_map>
 #include <unordered_set>
-
-using namespace std;
-
 #include <Minesweeper.h>
 
 ////////////////////////////////////////////////////////////////////////////////
